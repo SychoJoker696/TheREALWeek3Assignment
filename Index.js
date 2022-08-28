@@ -108,7 +108,7 @@ function canIBuy(hoursWorked) {
     else{
         console.log('I have $' + moneyInWallet + "... I can't get the lego set.");
     } 
-} console.log(canIBuy(40));
+} canIBuy(40);
 
 
 
